@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!-- unix绯荤粺镞ュ织鏂囦欢鍚?-->
+    <logfile>wtmpx</logfile>
+    
+    <!-- 淇濆瓨瑙ｆ瀽鍚庣殑镞ュ织鏂囦欢鍚?-->
+    <textlogfile>log.txt</textlogfile>
+    
+    <!-- 涔︾鏂囦欢鍚?-->
+    <lastpositionfile>last-position.txt</lastpositionfile>
+    
+    <!-- 涓€娆℃€ф壒閲忚В鏋愭棩蹇楁浔鐩暟 -->
+    <batch>10</batch>
+    
+    <!-- 淇濆瓨閰嶅镞ュ织鏂囦欢镄勬枃浠跺悕 -->
+    <logrecfile>logrec.txt</logrecfile>
+    
+    <!-- 淇濆瓨涓洪厤瀵规棩蹇楃殑鏂囦欢鍚?-->
+    <loginlogfile>login.txt</loginlogfile>
+    
+    <!-- 链嶅姟绔湴鍧€ -->
+    <serverhost>localhost</serverhost>
+    
+    <!-- 链嶅姟绔鍙?-->
+    <serverport>8088</serverport>
+    
+    
+</config>
