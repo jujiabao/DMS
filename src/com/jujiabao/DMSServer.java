@@ -86,7 +86,6 @@ public class DMSServer {
 			DMSServer mDmsServer = new DMSServer();
 			mDmsServer.start();
 		} catch (Exception e) {
-			// TODO: handle exception
 			e.printStackTrace();
 		}
 	}
